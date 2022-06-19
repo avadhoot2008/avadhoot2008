@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avadhoot2008
+- 👋 Hi, I’m @smiley_face24
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
 
